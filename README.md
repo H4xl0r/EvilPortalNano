@@ -43,8 +43,7 @@ Head on over to the Wifi Pineapples Web Interface and go to the Evil Portal modu
 If you want to contribute to the project feel free to tackle one of these tasks!
 
 ### TODO
-* Figure out how to redirect clients going to HTTPS sites
-* Add ability to program commands to run when a portal is enabled/disabled
+* Any Ideas ?
 
 ## Release History
 
